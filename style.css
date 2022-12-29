@@ -1,0 +1,55 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.logo{
+    display: block;
+    margin: 10px auto;
+}
+.reg{
+    color: blueviolet;
+    text-align: center;
+}
+form{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px 20px;
+    margin: 10px 10px;
+}
+input{
+    padding: 5px;
+    margin: 10px;
+}
+input,select{
+    padding: 5px;
+    margin: 10px;
+}
+button{
+    width: 80px;
+   height: 30px;
+}
+.dec{
+    text-decoration: none;
+    color: black;
+}
+.submit{
+    width: 250px;
+    height: 350px;
+    margin: 10px auto;
+    display: block;
+}
+#thank{
+    color: green;
+    text-align: center;
+    font-size: 200%;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+    margin: 5px;
+}
+.back{
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    margin: 2px;
+}
